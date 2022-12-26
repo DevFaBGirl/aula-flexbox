@@ -1,0 +1,49 @@
+body {
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+}
+
+.container {
+    background-color: rgb(47, 71, 102);
+    border: 3px solid red;
+    width: 1200px;
+    height: 600px;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+
+    
+    
+}
+
+h1 {
+    color: rgb(18, 221, 221);
+}
+
+.speaker {
+    background-color: pink;
+    border: 2px solid orange;
+    width: 400px;
+    height: 120px;
+
+    display: flex;
+    align-items: center;
+    justify-content: stretch;
+
+}
+
+.subtitulo {
+    background: black;
+    border: 1px solid green;
+    width: 40px;
+    height: 40px;
+
+}
